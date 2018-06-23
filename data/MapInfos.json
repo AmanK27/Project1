@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Maze","order":2,"parentId":0,"scrollX":1239.2727272727273,"scrollY":1314.5454545454545},
+{"id":2,"expanded":true,"name":"Garden Of Hamel","order":3,"parentId":0,"scrollX":1612.5,"scrollY":1656.75},
+{"id":3,"expanded":false,"name":"MY_House","order":6,"parentId":4,"scrollX":799.5,"scrollY":452.25},
+{"id":4,"expanded":true,"name":"Town","order":4,"parentId":0,"scrollX":2132,"scrollY":1206},
+{"id":5,"expanded":true,"name":"OverWorld","order":1,"parentId":0,"scrollX":1240,"scrollY":1018},
+{"id":6,"expanded":false,"name":"Shop","order":5,"parentId":4,"scrollX":787.5,"scrollY":507.75},
+{"id":7,"expanded":false,"name":"Inn","order":7,"parentId":4,"scrollX":2325.818181818182,"scrollY":1315.6363636363637},
+{"id":8,"expanded":false,"name":"Hunters Guild","order":8,"parentId":4,"scrollX":1279.2,"scrollY":723.6}
+]
